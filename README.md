@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=QQzAHcojEKg
 https://www.youtube.com/watch?v=x77Rbny5iBA
 
 Moving forward, I think the project needs:
-1) Artwork on the front screen.
+1) Artwork on the front screen (and a front screen).
 2) A scoreboard.
 3) If the project is to be scaled up at any stage, it will need an event queue and a stronger differentiation, through classes, of the audio system.
 
