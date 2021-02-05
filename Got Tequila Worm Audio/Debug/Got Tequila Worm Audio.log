@@ -1,0 +1,4 @@
+﻿  renderer.cpp
+C:\Users\katie\source\repos\Got Tequila Worm Audio\snake.h(17,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\katie\source\repos\Got Tequila Worm Audio\snake.h(18,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Got Tequila Worm Audio.vcxproj -> C:\Users\katie\source\repos\Got Tequila Worm Audio\Debug\Got Tequila Worm Audio.exe
