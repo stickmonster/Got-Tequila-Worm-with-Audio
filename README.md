@@ -41,7 +41,7 @@ Moving forward, I think the project needs:
 
 If you can think of anything else, please feel free to add it here, or in branched code.
 
-![]()
+![](screenshotTequilaWorm.JPG)
 
 Thanks,
 
