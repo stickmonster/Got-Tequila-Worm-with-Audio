@@ -28,7 +28,7 @@ Other worm-bots arrive to get in the way.'
 
 ...
 
-I wanted to get it working in my local workspace, so that I could build on it. In this case, I have added sound effects. In order to get the project running on your system, you will need the SDL2 development libraries, and to include and add the library files in the Project menu. The steps for this are in these two videos:
+Since the Udacity nano-degree, I wanted to get it working in my local workspace, so that I could build on it. In this case, I have added sound effects. In order to get the project running on your system, you will need the SDL2 development libraries, and to include and add the library files in the Project menu. The steps for this are in these two videos:
 
 https://www.youtube.com/watch?v=QQzAHcojEKg
 
